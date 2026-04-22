@@ -1,6 +1,5 @@
 {
   "name": "Smart Fountain Card",
   "render_readme": true,
-  "filename": "smart-fountain-card.js",
-  "components": ["lovelace"]
+  "filename": "smart-fountain-card.js"
 }
