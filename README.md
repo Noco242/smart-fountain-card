@@ -13,7 +13,7 @@ Eine minimalistische Custom Card für Home Assistant, inspiriert vom beliebten "
 
 1. Öffne Home Assistant und gehe zu **HACS**.
 2. Klicke oben rechts auf die drei Punkte und wähle **Benutzerdefinierte Repositories** (Custom repositories).
-3. Füge die URL dieses Repositories ein: `https://github.com/DEIN_NAME/smart-fountain-card`
+3. Füge die URL dieses Repositories ein: `https://github.com/Noco242/smart-fountain-card`
 4. Wähle als Kategorie: **Lovelace**.
 5. Klicke auf Hinzufügen.
 6. Suche in HACS nach "Smart Fountain Card" und lade sie herunter.
